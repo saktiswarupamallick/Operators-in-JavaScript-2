@@ -1,1 +1,1 @@
-# Operators-in-JavaScript-2
+Git & Github Assignment
